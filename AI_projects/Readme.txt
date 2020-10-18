@@ -1,1 +1,1 @@
-This is a readme
+Projects from my Artificial Intelligence course
