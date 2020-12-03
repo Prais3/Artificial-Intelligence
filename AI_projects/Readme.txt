@@ -1,1 +1,1 @@
-**Projects from my Artificial Intelligence Course**
+Projects from my Artificial Intelligence Course
